@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "outDir": "",
+        "module": "ESNext"
+    },
+    "include": ["src/**/*"]
+}
+
+// tham khảo: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
